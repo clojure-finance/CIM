@@ -1,4 +1,4 @@
-﻿Date of trade,buy/sell,amount(USD),ticker,opening price
+﻿date,buy/sell,amount(USD),ticker,opening price
 2023-10-11,sell,4000000,TPST,0.235
 2023-10-11,buy,2000000,XOM,106.96
 2023-10-12,buy,1000000,PXD,242.75
